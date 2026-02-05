@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1770316264 source:c:\unlam\topicos2026\tda\main.c
+	"TDA.h"
+
+1770316280 source:c:\unlam\topicos2026\tda\tda.c
+	"TDA.h"
+
+1770316242 c:\unlam\topicos2026\tda\tda.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
